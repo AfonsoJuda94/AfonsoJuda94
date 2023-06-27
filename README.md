@@ -14,6 +14,17 @@
   <li>Game development(I'm still a beginner at this)</li>
   <li>UX Design</li>
 </ul>
+<h2>Technologies</h2>
+<ul>
+  <li>C</li>
+  <li>Java</li>
+  <li>Javascript</li>
+  <li>NodeJS</li>
+  <li>ReactJS</li>
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
 <h2>Hobbies</h2>
 <ul>
   <li>Reading</li>
@@ -21,6 +32,7 @@
   <li>Language Learning</li>
   <li>Chess (I play it rarely)</li>
 </ul>
+
 <!---
 AfonsoJuda94/AfonsoJuda94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
