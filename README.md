@@ -1,6 +1,6 @@
 <h2>How am I?</h2>
 <p>
-  Well, that's a great question. My name is Afonso Judá. I'm 22 years old and am graduating college this year. My major? It's called Systems of Information or Information Systems. I like to describe it as the child of Computer Science and Administration(maybe Business). Besides being a student, I also teach English online.
+  Well, that's a great question. My name is Afonso Judá. I'm 22 years old and am graduating college this year. My major? It's called Systems of Information( or Information Systems). I like to describe it as the child of Computer Science and Administration(maybe Business). Besides being a student, I also teach English online.
 </p>
 <h2>Interests</h2>
 <ul>
