@@ -9,9 +9,9 @@
   <li>Artifitial Inteligence</li>
   <li>Game development</li>
 </ul>
-<h2>I would like to try</h2>
+<h2>I would like to try to learn</h2>
 <ul>
-  <li>Game debelopment(I'm still a beginner at this)</li>
+  <li>Game development(I'm still a beginner at this)</li>
   <li>UX Design</li>
 </ul>
 <h2>Hobbies</h2>
